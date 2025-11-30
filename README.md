@@ -1,39 +1,31 @@
-<div align="center">
+<h2 align="center">Hi, I'm Ragad 🤍</h2>
 
-# 👋 Hi, I'm Ragad  
-### Software Engineering Student
-
-Passionate about **algorithms**, **Arduino development**, and **modern web technologies**.  
-Always learning, building, and improving as a developer.
-
----
-
-## 💡 Tech Stack
-
-| Category | Technologies |
-|---------|--------------|
-| **Languages** | Java • Python • C++ • JavaScript |
-| **Web** | HTML • CSS • React |
-| **Tools** | Git • GitHub • VS Code |
+<p align="center">
+Software Engineering Student  
+Interested in algorithms, Arduino development, and web technologies.
+</p>
 
 ---
 
-## 📌 Featured Projects  
-✨ Coming soon…
+### 🌿 About Me
+- 💻 Passionate about clean code & problem-solving  
+- ✨ Love building small projects that help me grow  
+- 📚 Always learning something new  
 
 ---
 
-## 🌱 Currently Learning  
-Algorithms • System Design • Frontend Development
+### 🛠 Tech Stack
+**Languages:** Java, Python, C++, JavaScript  
+**Web:** HTML, CSS, React  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
-### 📫 Contact  
-**Email:** raghadmansour43@gmail.com  
+### 🌱 Currently Learning
+Algorithms · System Design · Frontend
 
 ---
 
-🖤 *Thanks for visiting my profile!*  
+<p align="center">🤍 Thanks for visiting my profile 🤍</p>
 
-</div>
 
